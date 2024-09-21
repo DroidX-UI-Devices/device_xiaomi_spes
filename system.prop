@@ -41,6 +41,9 @@ debug.force_no_blanking=true
 debug.sf.enable_hwc_vds=1
 persist.demo.hdmirotationlock=false
 
+# DroidX
+ro.droidx.maintainer=sayann70
+
 # FP
 sys.fp.miui.token=0
 ro.hardware.fp.sideCap=true
